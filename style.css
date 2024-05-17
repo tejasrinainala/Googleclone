@@ -1,12 +1,12 @@
-div 
+.main
 {
     margin-top:100px;
 }
-img {
+.logo-img {
     width:300px;
     display:block;
 }
-input 
+.select-text 
 {
     width:400px;
     display:block;
